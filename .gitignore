@@ -1,3 +1,5 @@
+# venv
+
 venv
 
 # Django
@@ -9,3 +11,13 @@ local_settings.py
 
 .env
 db.sqlite3
+
+# React
+
+node_modules/
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
